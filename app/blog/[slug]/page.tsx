@@ -10,7 +10,7 @@ export default function Page({ params }: { params: Params }) {
   return (
     <>
       <h1>Slug: {params.slug}</h1>
-      <p>Hole Tex</p>
+      <p>HoleTex</p>
       <p>branch update</p>
     </>
   );
